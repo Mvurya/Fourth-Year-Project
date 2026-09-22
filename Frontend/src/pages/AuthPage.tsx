@@ -47,7 +47,6 @@ function AuthPage() {
   return (
     <div className="auth-page">
       <div className="auth-card">
-        <h1>Cashflow Predictor</h1>
         <p className="auth-subtitle">Log in or create an account to continue</p>
 
         <form
